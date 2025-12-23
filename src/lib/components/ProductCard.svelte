@@ -28,7 +28,7 @@
 
     <div class="mt-auto w-full flex flex-col items-center">
         <a href={link} class="block w-full max-w-[180px] py-3.5 rounded-full text-[11px] font-bold uppercase tracking-widest transition-colors mb-3 bg-[#13241C] text-white hover:bg-[#1a3026]">
-            Shop Now
+            Learn More
         </a>
         <p class="text-white/60 text-[10px] tracking-wide">Starting at {price} per month</p>
     </div>
